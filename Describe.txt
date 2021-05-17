@@ -1,1 +1,3 @@
 Se ha creado un repositorio local en GitKraken y después se ha subido a GitHub.
+
+Se crea nueva rama y se hace un merge sobre la rama main.
