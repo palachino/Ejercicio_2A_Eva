@@ -1,3 +1,5 @@
 Se ha creado un repositorio local en GitKraken y después se ha subido a GitHub.
 
 Se crea nueva rama y se hace un merge sobre la rama main.
+
+Se crea un tag con el nombre "version1.0"
