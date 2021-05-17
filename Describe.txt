@@ -1,0 +1,1 @@
+Se ha creado un repositorio local en GitKraken y después se ha subido a GitHub.
